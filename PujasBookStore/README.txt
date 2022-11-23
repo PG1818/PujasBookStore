@@ -295,3 +295,12 @@ run the application and review it,
 
  completed Part 2 of the assignment
  11:00 pm
+
+
+ 2022-11-23 2:23
+ started Part3(3.1) at 10:38pm
+ i created all crud pages and all things going okay, 
+ but when i tried to push to github there was error 
+ i was not able to push to github,
+ i am tried with all ways i do not understand anything that is 
+ why i am starting my project again from Assignment2(part2.1)
