@@ -9,6 +9,7 @@ using System.Text;
 
 namespace PujasBooks.DataAccess.Repository
 {
+    // Implements all the methods of the IRepository
     public class Repository<T> : IRepository<T> where T : class
     {
         // modify the database w/ the db context
@@ -86,6 +87,5 @@ namespace PujasBooks.DataAccess.Repository
         {
             dbSet.RemoveRange(entity);
         }
-    
-}
+    }
 }

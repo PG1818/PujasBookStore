@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.ComponentModel.DataAnnotations;
+using System.Text;
 
 namespace PujasBooks.Models
 {
@@ -10,11 +10,10 @@ namespace PujasBooks.Models
         [Key]
         public int Id { get; set; }
 
-        [Display(Name = "CoverType Name")]
+        [Display(Name = "Cover Type Name")]
         [Required]
         [MaxLength(50)]
 
         public string Name { get; set; }
     }
 }
-
