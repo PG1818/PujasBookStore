@@ -308,3 +308,21 @@ run the application and review it,
  2022-11-24 12:46am
  i completed Part2, now i will start Part3
  12:47 am
+ created crud pages and added migration
+ update the  migration
+ made CoverTypeController.cs same as category
+ added code in layout.cshtml to display covertype on navbar
+ make a new folder in views called CoverType same as Category,
+ add razor page Index and make changes
+ everything going smoothly for now
+ 
+ added covertype.js in wwwroot made changes in that same as category.js
+ now add upsert view and added code
+ trying to add new Covertype there is error while adding
+ exception user handled
+ invalid object name CoverTypes.
+ done for this night,, i am so tired after making whole new assignment.
+ tomorow i will do.
+ good night
+ 03:03 am
+ 
