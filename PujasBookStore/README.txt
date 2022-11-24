@@ -304,3 +304,7 @@ run the application and review it,
  i was not able to push to github,
  i am tried with all ways i do not understand anything that is 
  why i am starting my project again from Assignment2(part2.1)
+
+ 2022-11-24 12:46am
+ i completed Part2, now i will start Part3
+ 12:47 am
