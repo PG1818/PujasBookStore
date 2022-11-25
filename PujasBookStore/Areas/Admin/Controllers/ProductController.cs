@@ -36,7 +36,7 @@ namespace PujasBookStore.Areas.Admin.Controllers
 
 
 
-       /* public IActionResult Upsert(int? id)        // get action mwthod for Upsert
+        public IActionResult Upsert(int? id)        // get action mwthod for Upsert
         {
             ProductVM productVM = new ProductVM()
             {
@@ -67,7 +67,7 @@ namespace PujasBookStore.Areas.Admin.Controllers
             }
 
             return View(productVM);
-        }*/
+        }
 
 
 
