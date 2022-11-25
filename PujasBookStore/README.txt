@@ -332,3 +332,25 @@ run the application and review it,
  - error solved - changed the migration files CoverType and altered it
  - updated the code and update the git repo...
  7:17 pm
+
+ 2022-11-24 10:25
+ starting 3.2
+ Adding Crud product
+  same as covertype
+  made ProductController.cs same as category
+ Add a new class in .Models Project.
+Adde the given code into it and saved the Product.cs file.
+Added the Migration which created the file in migration folder named 20221125032826_AddProductToDb
+Update Databse.
+Checked the product in table of SQL server object Explorer.
+Added the required filed in the product.cs file
+Added the migration which created the file in migration folder with name 20221125035422_AddValidationToProduct
+Update the database.
+Created the ProductRepository.cs file in Repository folder.
+Created the IProductRepository.cs file in IRepository folder.
+Updated the ProductRepository.cs file withe the given code in ppt.
+Added the product in the UnitOfWork and IUnitOfWork
+Build the project.
+Push to Git.
+Part 2.3.2 Completd Successfully.
+First PPT Completd.
