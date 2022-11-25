@@ -10,7 +10,7 @@ using PujasBookStore.DataAccess.Data;
 namespace PujasBooks.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221124232948_AddCoverTypeToDb")]
+    [Migration("20221125000712_AddCoverTypeToDb")]
     partial class AddCoverTypeToDb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

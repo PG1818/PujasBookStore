@@ -325,4 +325,10 @@ run the application and review it,
  tomorow i will do.
  good night
  03:03 am
- 
+
+ 2022-11-24 7:14 pm
+ - Update the CoverType files and again update the database....
+ - database created successfull
+ - error solved - changed the migration files CoverType and altered it
+ - updated the code and update the git repo...
+ 7:17 pm
