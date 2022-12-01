@@ -1,10 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 
-namespace PujasBooks.Models
+namespace PujasBooks.Models.ViewModels
 {
     public class ProductVM
     {

@@ -385,3 +385,15 @@ Run the project
 done for the day 
 goooooooodddddd nighttttt.
 end time 11:28pm
+
+2022-11-30 7:41 pm
+starting part4
+i am getting error of exception handling
+Added files content provided by github link doing step by step and exception error gone
+without getting error it solved,
+but in my laptop when i tried to clone reposetory i am getting 86 commit automattically 
+i do not know why , but when i cloned in LAB ,it successfully cloned.
+added product and choose image it succesfully runs.
+
+End of Part4 
+2022-11-30 End time(08:03pm)
