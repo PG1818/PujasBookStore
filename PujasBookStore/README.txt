@@ -405,3 +405,6 @@ github link provided by Andrew
 edited succesfully.
 now i am trying to add new field to product.cs and
 trying to do migration
+Sucessfully done with migration and update database.
+End of Part4
+2022-12-04 11:51pm
