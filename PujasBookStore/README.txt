@@ -397,3 +397,11 @@ added product and choose image it succesfully runs.
 
 End of Part4 
 2022-11-30 End time(08:03pm)
+
+2022-12-04 11:40pm
+i forgot to do last step which is products shows on home page,
+so i edited homecontroller.cs and index.cshtml according to 
+github link provided by Andrew
+edited succesfully.
+now i am trying to add new field to product.cs and
+trying to do migration
